@@ -15,7 +15,6 @@ A clean and professional RESTful API built with **Node.js** and **Express** to m
 - Express.js
 - Postman (for testing)
 
-![API Output](./output.png)
 
 ## 📦 Installation
 
